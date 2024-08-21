@@ -1,0 +1,11 @@
+/* Add all your styles here */
+*{
+  background-color: red;
+  text-align: center;
+}
+h3{
+  color: blue;
+}
+p{
+  font-size: 20px;
+}
